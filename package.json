@@ -1,0 +1,12 @@
+{
+  "name": "my-new-repo",
+  "version": "1.0.0",
+  "description": "gh pr create --base main --head test --title \"Your PR Title\" --body \"Description of the PR\"\r gh auth login",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo amir" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
