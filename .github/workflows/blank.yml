@@ -7,7 +7,7 @@ on:
       - main  # or the target branch you want to lint for
 
 jobs:
-  lint:
+  test:
     runs-on: ubuntu-latest
 
     steps:
